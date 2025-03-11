@@ -27,11 +27,11 @@
 
 ### 📌 Proyectos Destacados
 
-- 📊 **[Leyendo formatos de archivos con PANDAS](https://colab.research.google.com/drive/14Ww2riYsK5fuf2H7RBulImXOiHNzdNqg?usp=sharing)**  
-  _Análisis de una red de supermercados Estrellas de Bejene._
+- 📊 **[Análisis de una red de supermercados Estrellas de Bejene](https://colab.research.google.com/drive/14Ww2riYsK5fuf2H7RBulImXOiHNzdNqg?usp=sharing)**  
+  _ Leyendo formatos de archivos con PANDAS._
 
-- 📈 **[Análisis de Datos en Python](https://github.com/tuusuario/proyecto-python)**  
-  _Exploración y visualización de datos usando Pandas, Matplotlib y Seaborn._
+- 📈 **[Análisis de gases de efecto invernadero en el territorio brasileño](https://github.com/tuusuario/proyecto-python)**  
+  _Seleccionar y agrupar datos._
 
 ---
 
