@@ -38,5 +38,5 @@
 ### 🌎 Conéctate conmigo
 
 💼 [LinkedIn](https://www.linkedin.com/in/jimmy-vasquez-c-756ab116b/)  
-📂 [Portafolio](https://tuusuario.github.io/)  
+📂 [Portafolio](https://github.com/jimV92)  
 📧 **Email:** <span style="color:blue"><b>jimmyvas92@gmail.com</b></span>  
