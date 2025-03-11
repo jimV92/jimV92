@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola soy Jimmy 👋
+![1](https://github.com/user-attachments/assets/34889cc0-f8f9-465d-a4eb-c480f13f0732)
 
 <!--
 **jimV92/jimV92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
